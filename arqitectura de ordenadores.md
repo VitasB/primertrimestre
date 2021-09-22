@@ -45,31 +45,31 @@ Se pide que montemos un ordenador por menos de 1000 €
 
 ![](https://raw.githubusercontent.com/VitasB/primertrimestre/main/Captura%20de%20pantalla%20de%202021-09-22%2013-06-58.png)
 
-# Monitor
+### Monitor
 
 Lenovo G27-20 27" LED IPS FullHD 144Hz G-Sync Compatible
 
-# Combo(de teclado+raton+auriculares)
+### Combo(de teclado+raton+auriculares)
 
 Tempest Apocalypse Combo Gaming Teclado + Ratón + Auriculares + Alfombrilla 
 
-# Caja
+### Caja
 
 Nfortec Lynx Cristal Templado USB 3.0 RGB Negra 
 
-# Tarjeta Grafica
+### Tarjeta Grafica
 
 Gigabyte GeForce GTX 1050Ti OC 4GB GDDR5 
 
-# Placa Base
+### Placa Base
 
 Gigabyte B450M DS3H
 
-# Procesador
+### Procesador
 
 AMD Ryzen 5 1600 Stepping AF 3.6GHz BOX 
 
-# RAM
+###  RAM
 
 Team Group Delta White RGB DDR4 3200 PC4-25600 16GB 2x8GB CL16
 
