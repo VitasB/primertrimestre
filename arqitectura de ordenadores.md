@@ -73,6 +73,9 @@ AMD Ryzen 5 1600 Stepping AF 3.6GHz BOX
 
 Team Group Delta White RGB DDR4 3200 PC4-25600 16GB 2x8GB CL16
 
+# RUSIA ES EUROPA
+
+
 
 
 
