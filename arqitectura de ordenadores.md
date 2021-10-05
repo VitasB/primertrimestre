@@ -76,7 +76,19 @@ Team Group Delta White RGB DDR4 3200 PC4-25600 16GB 2x8GB CL16
 
 Total precio: 958,68.
 
+# Interrnet y redes
 
+### Redes Locales: LAN
 
+LAN: Local Area Network
 
+Protocolo TCP/IP
+
+DHCP:Asignar de forma automatica las IPs de los ordenadores conectados.
+
+Ataque DDOS:Pedir Alavez demasiadas cosas a un mismo servidor.
+
+STREAM:ARRROYO:corriente de agua
+
+TCP/IP
 
