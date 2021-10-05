@@ -76,6 +76,18 @@ Team Group Delta White RGB DDR4 3200 PC4-25600 16GB 2x8GB CL16
 
 Total precio: 958,68.
 
+### Caracteriscticas de mi disco duro
+
+-Capacidad: 2TB
+
+-Precio: 200 eur
+
+-Interfaz:SATA-III (6 Gbps)
+
+Tipo: SSD
+
+[ Dicso duro](https://www.pccomponentes.com/samsung-870-qvo-ssd-2tb-sata3)
+
 # Interrnet y redes
 
 ### Redes Locales: LAN
