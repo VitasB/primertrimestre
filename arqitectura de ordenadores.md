@@ -104,3 +104,8 @@ STREAM:ARRROYO:corriente de agua
 
 TCP/IP
 
+### Rellexiòn sobre precios
+
+Por 40 euro(1TB) [Link](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3?gclsrc=aw.ds&gclid=CjwKCAjw7--KBhAMEiwAxfpkWC80I1lJBur0_X0tlXs6_gGbfv6anR6vnVRA9KCVvAsmxVAAHr0qZRoC1D0QAvD_BwE)
+
+Por 80 euro(2TB)
