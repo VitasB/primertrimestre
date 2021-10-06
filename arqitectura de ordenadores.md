@@ -113,3 +113,58 @@ TCP/IP
 -Por 300 euro (8TB) [Link](https://www.amazon.es/Western-Digital-WD82PURZ-Disco-Duro/dp/B07RRCQVN1/ref=sr_1_36?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=hdd+8tb&qid=1633432847&qsid=261-5205627-7357036&sr=8-36&sres=B075WYBQXJ%2CB07FNK6QMT%2CB01LWVT81X%2CB07SZVVBBK%2CB07DQBFQ2D%2CB07YF6DKS2%2CB084ZV4DXB%2CB089QZZ2JR%2CB01MR6Y13P%2CB01IAD5ZC6%2CB07173WR4B%2CB07D962J5R%2CB083JBZC5K%2CB07VNTFHD5%2CB081VGMS8X%2CB07MYL7KVK%2CB07XGDNZXT%2CB07VP5X239%2CB01LQQHKZY%2CB07H2RR55Q&srpt=COMPUTER_DRIVE_OR_STORAGE)
 
 
+# Buses: autopistas para los datos.
+
+Velocidad=Frecuencia=Ancho de bañda
+(bits/s)      (H3)      (bits)
+
+Los buses de datos tienen una determinada capacidad de transmisión de informacion. Esta capacidad se mide en información/s. 
+Por ejemplo: Bits/s, KB/s, MB/s, GB/s.
+
+Para pasar de una unidad a otra, tendremos que multiplicar o dividir.
+
+Para pasar de bit(b) a byte (B) dividimos entre 8, que es el número de bits e un byte.
+
+Para pasar de byte a KiloByte(KB) dividimos enre 1024, que esl número de bytes en un KB.
+
+Si hubizera que pasar de bit a MB, se unen varias divisiones, en este caso: Primero dividimos entre 8 y luego 2 veces entre 1024.
+
+Sipasamos de unidades grandes a chicas, multiplicaremos es ves de dividir.
+
+La velocidad de transmisión es igual a la frecuaencia de transmisión del bus multiplicado por el número de bits por paquete. El número de bits por paquete depende de cuantos conexiones tenga.
+
+### Unidades de la frecuencia:
+
+la frecuencia se mide en Hertz, hertizos o segundos-1(1/segundos)
+
+1Hz representa que algo ocurre 1 vez por segundo.
+
+0'1Hz representa que algo ocurre 1 vez por 10 segundos.
+
+5Hz representa que algo ocurre 5 veces por segundo.
+
+En informatica, estas frecuencias pueden referise habitualmente a:
+  -Frecuencia de reloj para transmitir datos (MHZ-GHZ)
+  
+  -Frecuencia de sonido (HZ-KHZ)
+  
+  Para cambiar la unidad, se utilza el SI, es decie, múltiplos y submúltiplos en base decimal. Es decir: 1MH3= 1 000 000 HZ, 1KHZ= 1000HZ
+  
+
+## Sistema Operativo
+
+-Windows 10
+-Linux
+-iOS
+-Android
+-macOS
+
+## Funciones básicas
+
+-Habla con el Hardware-
+-Establecar conexiones-
+-Interfaz básica de usario-
+-Acceso básico de archivos-
+-Acceder y administrar discos-
+-Permitir instalar otros programas-
+
