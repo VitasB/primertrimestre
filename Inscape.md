@@ -1,4 +1,10 @@
 
+
+![Captura de pantalla de 2021-10-20 13-53-08](https://user-images.githubusercontent.com/90753279/138089405-300f224d-e4bb-4c1d-99a3-68a171cb908b.png)
+
+
+
+
 Imagenes
  -por el lado(ráster) podemos haceruna matriz de punos(mapa de bits) y a cada punto le ásignamos un color(píxel)
  
