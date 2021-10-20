@@ -96,3 +96,5 @@ con una unica pasada siempre obtendremos una imgane en blanco y negro (que podem
 Una unica pasada tenemos detecion de bordes --- revisa el contraste entre pixeles
 
 Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
+
+
