@@ -17,4 +17,4 @@ Imagenes
 *  4k
 *  Un archivo puede empresar su relución diciendo Axó. Por ejemplo una imagen el 350x250x píxeles.
 *  Se utiliza cuantos hablamos de archivos concretos.
-*    
+
