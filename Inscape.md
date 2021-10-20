@@ -61,3 +61,9 @@ Esta es la imagen rasterizada original
 ![LEON ROSA BONHEUR](https://content3.cdnprado.net/imagenes/Documentos/imgsem/a6/a61b/a61b0f48-75f0-43fe-a995-63cc36158cbc/51b34837-980c-420b-8be3-76e896cce33b_268.jpg)
 
 [ORIGINAL](https://imagenes.elpais.com/resizer/BZC1wtnQ7F9Fh9_KJdxKWADf-yA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/XFGHWVUB6GGPQQBIV36UCJXVOY.jpg)
+
+Tamaño personalizado, ancho 600, alto 1000, cerramos la ventana, accedemos a la imagen de internet
+
+-archivo importar
+-Arrastras la imagen
+-Copiar y pegar la imagen
