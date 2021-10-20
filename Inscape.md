@@ -50,3 +50,9 @@ tiff
 
 ![GIF](https://i2.wp.com/hipertextual.com/wp-content/uploads/2016/10/giphy.gif?w=400&ssl=1)
 
+ Rasterizamos una imagen, cuando pasamos de una imagen "Vectorial" a una imagen "Raster" (Mapa Debits)
+ 
+ 
+ 
+ 
+ 
