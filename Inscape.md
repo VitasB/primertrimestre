@@ -103,4 +103,14 @@ Una unica pasada tenemos detecion de bordes --- revisa el contraste entre pixele
 
 Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
 
+![imagen](https://user-images.githubusercontent.com/90753194/139021990-3cf2bd21-8c8a-47a3-a7f1-3f1417c9dc38.png)
 
+Leon 1 16x22
+
+leon 2 160x
+
+leon 3 350x
+
+leon 4 800x
+
+leon 5 1500x
