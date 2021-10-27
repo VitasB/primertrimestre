@@ -1,8 +1,6 @@
 # primertrimestre
 
-WELCOME
-
-## Bienvenidos
+## WELCOME
 
 Soy Vitas y me gusta jugar Basketball. Tengo 18 años. 
 
