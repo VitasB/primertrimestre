@@ -126,6 +126,31 @@ Leon 4 x1500 de ancho
 
 ![imagen](https://user-images.githubusercontent.com/90753194/139022361-050a30dc-eb02-4b70-9011-164b72228035.png)
 
-
-
 ![imagen](https://user-images.githubusercontent.com/90753194/139022391-3cdf2693-60bf-4c50-855f-e37eab4d5874.png)
+
+
+
+
+Leon con colores
+
+![imagen](https://user-images.githubusercontent.com/90753194/139029442-e7995b2f-898e-408c-8565-fbdac25e92a3.png)
+
+Mezcla de colores
+
+![imagen](https://user-images.githubusercontent.com/90753194/139029487-fb161d98-5583-456c-8998-56bfcf3eeda1.png)
+
+![imagen](https://user-images.githubusercontent.com/90753194/139029528-87703699-017d-458c-90b2-4cc9610f1f54.png)
+
+## HLS
+
+Tipo de color HSL: Mezcla un canal de tono el circulo cromatico(Hue, tono de color en ingles).Con un grado de saturación de color (entre gris y color).Y un canal de Luminosidad (light)
+
+HSL: (HUE, SATURATION, LICHT)
+
+Este sistema mezcla lo siguiente
+
+-Un tono de color en la rueda cromatica (HUE).
+
+-Un canal de nivel de saturacion croamtica que va del gris al color (saturacion)
+
+-Un canal de luminosidad de color (light).
