@@ -162,3 +162,14 @@ CMYK
 -Este sistema mezcla los tres colores primarios substractivos:
 
 SUBSTRACTIVO (CYAN, MAGENTA, YELLOW, BLACK) y un canal d negro
+
+
+LOGOS
+
+Underground:
+![imagen](https://user-images.githubusercontent.com/90753194/139051018-0ae4a458-6847-4cdf-b58f-5a71c2eb00ab.png)
+
+
+Mitsubishi:
+![imagen](https://user-images.githubusercontent.com/90753194/139051064-b7e20dd2-f549-4f7a-907d-4459c5e35cb7.png)
+
