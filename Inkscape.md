@@ -173,3 +173,8 @@ Underground:
 Mitsubishi:
 ![imagen](https://user-images.githubusercontent.com/90753194/139051064-b7e20dd2-f549-4f7a-907d-4459c5e35cb7.png)
 
+OEPRACIONES BOOLEANAS CON FORMAS
+
+
+
+![imagen](https://user-images.githubusercontent.com/90753194/139055728-8d3451e7-7fa8-4cd0-ac70-50be2eafcaa1.png)
