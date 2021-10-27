@@ -176,5 +176,8 @@ Mitsubishi:
 OEPRACIONES BOOLEANAS CON FORMAS
 
 
+![Captura de pantalla de 2021-10-27 13-18-57](https://user-images.githubusercontent.com/90753194/139056269-30d029e0-0cca-4905-b391-5d7a40b3a6c0.png)
 
-![imagen](https://user-images.githubusercontent.com/90753194/139055728-8d3451e7-7fa8-4cd0-ac70-50be2eafcaa1.png)
+
+![Captura de pantalla de 2021-10-27 13-17-44](https://user-images.githubusercontent.com/90753194/139056301-4f84cf71-e91e-4ee4-8d97-a7e5aafef863.png)
+
