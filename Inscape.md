@@ -154,3 +154,11 @@ Este sistema mezcla lo siguiente
 -Un canal de nivel de saturacion croamtica que va del gris al color (saturacion)
 
 -Un canal de luminosidad de color (light).
+
+-Un canal que trasmite transparencia (alfa).
+
+CMYK
+
+-Este sistema mezcla los tres colores primarios substractivos:
+
+SUBSTRACTIVO (CYAN, MAGENTA, YELLOW, BLACK) y un canal d negro
